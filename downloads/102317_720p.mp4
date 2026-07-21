@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=609971,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2"
-https://nvms1-b.cdn.privatehost.com/media/nvme4/3f0eb87b-b26a-5602-8d6d-f91882ca6c85/102317_360p.mp4/index-v1-a1.m3u8?&c=9&lra=5000k&exp_time=1784641806&tag=ok.xxx&sign=955cebecc3761cefa677ea84bf2b6f20
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1160090,RESOLUTION=854x480,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2"
-https://nvms1-b.cdn.privatehost.com/media/nvme4/3f0eb87b-b26a-5602-8d6d-f91882ca6c85/102317.mp4/index-v1-a1.m3u8?&c=9&lra=5000k&exp_time=1784641806&tag=ok.xxx&sign=e3ed12b9d3a908518a14b058b30189b4
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2414257,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2"
-https://nvms1-b.cdn.privatehost.com/media/nvme4/3f0eb87b-b26a-5602-8d6d-f91882ca6c85/102317_720p.mp4/index-v1-a1.m3u8?&c=9&lra=5000k&exp_time=1784641806&tag=ok.xxx&sign=333d148b4265d0aed57cacb8d0a0e31c
-
